@@ -3,7 +3,7 @@
 
 This program:
 - Downloads the latest version from GitHub (if not already downloaded),
-- Extracts it into a version-numbered folder (e.g., `1.9.1`),
+- Extracts it into a version-numbered folder (e.g., ``),
 - Runs the specified `.bat` file **as administrator**.
 
 ──────────────────────────────────────────────────────  
