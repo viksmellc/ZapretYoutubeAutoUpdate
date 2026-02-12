@@ -1,3 +1,4 @@
+https://disk.yandex.ru/d/-fZFpSrZLAs-iA/ZapretYoutubeAutoUpdate/dotnet-runtime-8.0.13-win-x64.exe
 # ZapretYoutubeAutoUpdate
 **ZapretYoutubeAutoUpdate** — automatic download and launch of *zapret-discord-youtube*
 
