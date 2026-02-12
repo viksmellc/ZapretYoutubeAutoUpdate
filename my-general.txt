@@ -1,0 +1,5 @@
+﻿# USER CUSTOM ENTRIES START
+# Пользовательские записи
+# Добавляйте сайты между маркерами
+play.google.com
+# USER CUSTOM ENTRIES END
